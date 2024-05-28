@@ -1,0 +1,63 @@
+.navbar {
+    height: 10vh;
+    width: 100%;
+    background-color: #fdcd0b;
+}
+
+.row {
+    width: 95%;
+}
+
+.row-sidebar {
+    height: 90vh;
+}
+
+.mahdi {
+    width: 300px;
+    margin-left: 5px;
+}
+
+.sidebar-menu {
+    color: white;
+}
+
+.nav-link:hover {
+    background-color: grey;
+}
+
+.navbar-brand {
+    font-weight: 700
+}
+
+.btn-card {
+    width: 400px;
+    height: 60px;
+}
+
+.isi {
+    height: 75vh;
+}
+
+
+.dropdown {
+    width: 50px;
+    display: flex;
+}
+
+.container {
+    width: 290px;
+    height: 140px;
+    overflow-y: scroll;
+    border: 1px solid black;
+}
+
+.container-kanan {
+    width: 600px;
+    height: 90px;
+    overflow-y: scroll;
+    border: 1px solid black;
+}
+
+.checkbox {
+    margin: 10px;
+}
